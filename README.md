@@ -18,7 +18,7 @@ Import file pdf đang có vào link để phân tích, sau khi phân tích sẽ 
 ```
 flag{easy_show_flag_pdf_to_word}
 ```
-![atl](Images/extractpdf)
+![atl](Images/extractpdf.png)
 
 ### Giải pháp 2: Dùng convert file từ PDF sang Word
 
@@ -27,4 +27,4 @@ Sau khi convert file pdf sang word, chúng ta kéo hình ảnh ra vị trí khá
 ```
 flag{easy_show_flag_pdf_to_word}
 ```
-![atl](Images/converttoword)
+![atl](Images/converttoword.png)
